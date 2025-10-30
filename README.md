@@ -55,8 +55,8 @@ always exploring the latest in the JavaScript ecosystem.
 <h4 align="center">🌎 Connect with me</h4>
 
 <div align="center">
-  <span><a href="https://github.com/miguelitodev" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></span>
-  <span><a href="https://www.linkedin.com/in/miguelitodev" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a></span>
+  <span><a href="https://github.com/rniguel" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></span>
+  <span><a href="https://www.linkedin.com/in/rniguel" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a></span>
   <span><a href="https://dev.to/miguelito" target="_blank"><img src="https://img.shields.io/badge/Dev.to-%23000000?style=flat&logo=dev.to&logoColor=white" alt="Dev.to" /></a></span>
 </div>
   
