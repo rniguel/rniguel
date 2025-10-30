@@ -5,7 +5,6 @@
   <samp>
     👋 Hi there! I'm a Frontend Developer since 2020
   </samp>
-  <p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p>
 </p>
 
 <!-- ABOUT ME -->
