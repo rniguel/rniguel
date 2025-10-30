@@ -7,6 +7,12 @@
   </samp>
 </p>
 
+<p align="center">
+  <a href="https://miguelito.dev" target="_blank">
+    <img src="https://img.shields.io/badge/👉-miguelito.dev-lightgrey?style=flat" alt="my website">
+  </a>
+
+
 <!-- ABOUT ME -->
 <p align="center" style="text-align: center;">
 Hi there, my name is Miguel Riquelme, a passionate Frontend Developer.<br>
