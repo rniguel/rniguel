@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/cVrccUf0NC1TQlLiZf/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTh1bnIxbW05anE1OHBpendxNm9idHd1YW50bHlndWsxNWFmeHd3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fnxYd5imdfHebTG44R/giphy.gif" width="300px">
    <br><br>
   <samp>
     👋 Hi there! I'm a Frontend Developer since 2020
@@ -40,6 +40,7 @@ I specialize in <a href="https://reactjs.org/">React</a> and <a href="https://ne
   <a href="https://tailwindcss.com/" target="blank"><img src="https://skillicons.dev/icons?i=tailwind" height="50" /></a>
   <a href="https://html.spec.whatwg.org/" target="blank"><img src="https://skillicons.dev/icons?i=html" height="50" /></a>
   <a href="https://www.w3.org/Style/CSS/" target="blank"><img src="https://skillicons.dev/icons?i=css" height="50" /></a>
+  <br/>
   <a href="https://sass-lang.com/" target="blank"><img src="https://skillicons.dev/icons?i=sass" height="50" /></a>
   <a href="https://git-scm.com/" target="blank"><img src="https://skillicons.dev/icons?i=git" height="50" /></a>
   <a href="https://github.com/" target="blank"><img src="https://skillicons.dev/icons?i=github" height="50" /></a>
