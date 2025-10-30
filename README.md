@@ -51,12 +51,25 @@ always exploring the latest in the JavaScript ecosystem.
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" aria-label="Linux"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /></a>
 </p>
 
-<!-- SOCIAL MEDIA -->
-<h4 align="center">🌎 Connect with me</h3>
+<h4 align="center">🌎 Connect with me</h4>
 <p align="center">
-  <a href="https://github.com/rniguel" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/rniguel" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/miguelitoodev" target="_blank" rel="noopener noreferrer" aria-label="Twitter"><img src="https://skillicons.dev/icons?i=twitter" height="30" alt="Twitter" /></a>
-  <a href="https://codepen.io/miguelitodev" target="_blank" rel="noopener noreferrer" aria-label="CodePen"><img src="https://skillicons.dev/icons?i=codepen" height="30" alt="CodePen" /></a>
-  <a href="https://www.instagram.com/rniguel_" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><img src="https://skillicons.dev/icons?i=instagram" height="30" alt="Instagram" /></a>
+  <a href="https://github.com/miguelitodev" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/miguelitodev" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/miguelito" target="_blank" rel="noopener noreferrer" aria-label="Dev.to">
+    <img src="https://img.shields.io/badge/Dev.to-%23000000?style=flat&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <br>
+  <a href="https://www.instagram.com/miguelito.dev" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://open.spotify.com/user/22gkbvjxtolpi4mmql22wh5ya" target="_blank" rel="noopener noreferrer" aria-label="Spotify">
+    <img src="https://img.shields.io/badge/Spotify-%231DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+    <a href="" target="_blank" rel="noopener noreferrer" aria-label="Spotify">
+    <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Spotify" />
+  </a>
 </p>
