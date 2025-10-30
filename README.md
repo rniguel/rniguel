@@ -21,9 +21,9 @@ I specialize in <a href="https://reactjs.org/">React</a> and <a href="https://ne
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@eeb3dfb4-6a99-4673-8148-202e3cd8f6d2">
-    <img src="https://wakatime.com/badge/user/35bde0fe-b5fe-4a8d-948b-3e773de3d1cd.svg" alt="WakaTime Badge" width="150"/>
-  </a>
+  <img src="https://wakatime.com/badge/user/35bde0fe-b5fe-4a8d-948b-3e773de3d1cd.svg" alt="WakaTime Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rniguel.visitor-badge" alt="Visitors" />
+  <img src="https://img.shields.io/github/followers/rniguel?style=social" alt="Followers" />
 </p>
 
 <!-- TECH STACK -->
