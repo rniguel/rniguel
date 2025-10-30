@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://miguelito.dev" target="_blank" rel="noopener noreferrer" aria-label="Visit Miguelito.dev">
-    <img src="https://img.shields.io/badge/👉-miguelito.dev-lightgrey?style=flat" alt="my website">
+    <img src="https://img.shields.io/badge/👉-miguelito.dev-4285F4?style=flat" alt="my website">
   </a>
 </p>
 
