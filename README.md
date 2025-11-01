@@ -63,5 +63,5 @@ always exploring the latest in the JavaScript ecosystem.
 <div align="center">
   <span><a href="https://www.instagram.com/rniguel" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a></span>
   <span><a href="https://open.spotify.com/user/22gkbvjxtolpi4mmql22wh5ya" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify" /></a></span>
-  <span><a href="" target="_blank"><img src="https://img.shields.io/badge/Steam-%23000000?style=flat&logo=steam&logoColor=white" alt="Steam" /></a></span>
+  <span><a href="https://steamcommunity.com/id/rniguel_/" target="_blank"><img src="https://img.shields.io/badge/Steam-%23000000?style=flat&logo=steam&logoColor=white" alt="Steam" /></a></span>
 </div>
